@@ -1,6 +1,4 @@
-# Hosted-static-site
-Hosted static site
-creating static site
+
 <!DOCTYPE html>
 <meta charset="utf-8">
 <head><head>
